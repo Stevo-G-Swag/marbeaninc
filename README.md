@@ -21,7 +21,7 @@ OpenDevin is a simple web application built using React. The primary function of
 2. Install dependencies:
    ```bash
    npm install react react-dom react-router-dom --timeout=600000
-   npm install -D tailwindcss postcss autoprefixer
+   npm install -D tailwindcss postcss autoprefixer eslint eslint-config-prettier eslint-plugin-prettier @babel/plugin-proposal-private-property-in-object
    ```
 3. Initialize Tailwind CSS Configuration:
    ```bash
